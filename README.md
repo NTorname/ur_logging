@@ -20,3 +20,7 @@ The output is currently a .txt file titled \[subject number\]\_log.txt.
 The file has a small human-readable header and each subsequent new line begins with a timestamp and the string containing scooter state.
 
 This file will soon become a .csv.
+
+<br />
+
+file written using tab not spaces!

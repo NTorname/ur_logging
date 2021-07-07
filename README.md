@@ -5,8 +5,8 @@ This script is intended for logging of test subject's interacting with the scoot
 <h2>Description of Function</h2>
 
 Currently, the script works by being called from another script by instantiating the object with the participant number as an argument.
-Like so: '''log = Logger(\[participant_number\])
-This object subscribes to '''/logging_topic''' and appends a new line to the .txt file with the contents of the topic with a time stamp.
+Like so: ```log = Logger(\[participant_number\])```
+This object subscribes to ```/logging_topic``` and appends a new line to the .txt file with the contents of the topic with a time stamp.
 
 <h2>/logging_topic</h2>
 
